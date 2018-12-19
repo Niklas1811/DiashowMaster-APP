@@ -53,6 +53,7 @@ public static final String SQL_TABLE3 = "create table " + TABLE2_NAME + "(" + CO
             return false;
         }else {
             return true;
+            //
         }
     }
 }
